@@ -115,10 +115,18 @@ An interactive **Power BI dashboard** was developed to visualize financial perfo
 
 Dashboard sections include:
 
-* Executive Summary
-* Profitability Analysis
-* Solvency & Liquidity Analysis
-* Cash Flow Quality Analysis
+## Executive Summary
+<img width="961" height="676" alt="Screenshot 2026-03-06 143052" src="https://github.com/user-attachments/assets/44b3afff-e4d7-48cb-a51e-0f700f0d85c3" />
+
+## Profitability Analysis
+<img width="961" height="675" alt="Screenshot 2026-03-06 143123" src="https://github.com/user-attachments/assets/602e4fc6-fa2b-4d19-a157-c91f75dec1bf" />
+
+## Solvency & Liquidity Analysis
+<img width="960" height="674" alt="Screenshot 2026-03-06 143142" src="https://github.com/user-attachments/assets/2f0a7e54-021b-4538-9f0a-6464c5bf1484" />
+
+## Cash Flow Quality Analysis
+<img width="960" height="675" alt="Screenshot 2026-03-06 143202" src="https://github.com/user-attachments/assets/6b27e704-8c34-456e-8349-49a2249c950b" />
+
 * Financial Health Snapshot
 
 The dashboard highlights key financial indicators and allows users to explore multi-year financial performance patterns.
